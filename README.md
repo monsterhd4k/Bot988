@@ -1,6 +1,3 @@
-<div align="center">
-<
-## Bot 🦎
 
 </div>
 
@@ -39,7 +36,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 # Instalación
 # Clonar repositorios e instalaciones de dependencias
 ```bash
-🦎 git clone https://github.com/Confusion245/ConfuBot4.git
+🦎 git clone https://github.com/KrizBots/Bot988
 🦎 cd bot988
 🦎 npm start
 ```
@@ -53,7 +50,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🦎 pkg install ffmpeg 
 🦎 pkg install wget
 🦎 pkg install imagemagick 
-🦎 git clone https://github.com/Confusion245/ConfuBot4
+🦎 git clone https://github.com/KrizBots/Bot988
 🦎 cd bot9888
 🦎 npm install
 🦎 npm start
