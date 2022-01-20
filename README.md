@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://ibb.co/TbF1hkQ/" alt="Kriz Edits" width="170" />
-
+<
 ## Bot 🦎
 
 </div>
