@@ -29,7 +29,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CAMBIAR SESSIÓN`
 
-[`Click Aqui`](https://github.com/KrizBots/KrizBots6/blob/master/session.json#L1)
+[`Click Aqui`](https://github.com/KrizBots/Bot988/edit/master/session.json#L1)
 
 ## `AJUSTES`
 
